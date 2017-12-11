@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func add(x int, y int) int {
-	return x + y
+	return x + y;
 }
 
 func printTest(x string) {
@@ -11,7 +11,6 @@ func printTest(x string) {
 }
 
 func main() {
-	fmt.Println(add(42, 13))
-
+	fmt.Println(add(42, 13));
 	printTest("XXXX");
 }
