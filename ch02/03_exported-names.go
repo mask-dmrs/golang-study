@@ -1,4 +1,4 @@
-package ch02
+package main
 
 /**
  * 在 Go 中，首字母大写的名称是被导出的。
