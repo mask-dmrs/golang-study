@@ -9,7 +9,7 @@ import (
  * slice 可以包含任意的类型，包括另一个 slice。
  */
 
-//https://tour.go-zh.org/moretypes/8
+//https://tour.go-zh.org/moretypes/14
 func main() {
 	// Create a tic-tac-toe board.
 	game := [][]string{

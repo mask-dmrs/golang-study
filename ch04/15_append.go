@@ -16,7 +16,7 @@ import "fmt"
  * （了解更多关于 slice 的内容，参阅文章Go 切片：用法和本质。）
  */
 
-// https://tour.go-zh.org/moretypes/12
+// https://tour.go-zh.org/moretypes/15
 func main() {
 	var a []int
 	printSlice("a", a)

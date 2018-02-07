@@ -15,7 +15,7 @@ import "fmt"
  * b = b[1:]      // len(b)=4, cap(b)=4
  */
 
-//https://tour.go-zh.org/moretypes/10
+//https://tour.go-zh.org/moretypes/13
 func main() {
 	a := make([]int, 5)
 	printSlice("a", a)
