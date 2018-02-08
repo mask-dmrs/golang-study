@@ -1,4 +1,4 @@
-package ch02
+package main
 
 // import "fmt"
 // import "math"
